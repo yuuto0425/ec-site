@@ -1,1 +1,1 @@
-# ApparelEcommerceStite
+# ec-site-app
